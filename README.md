@@ -1,1 +1,1 @@
-# pandas_homework
+# whale_analysis
